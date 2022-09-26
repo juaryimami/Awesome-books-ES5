@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "hint": "^6.2.0"
+  },
+  "dependencies": {
+    "postcss": "^8.1.0"
   }
 }
