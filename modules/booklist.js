@@ -1,3 +1,4 @@
+/* eslint-disable */
 import StandardBook  from "./book.js";
 export default class StandardBooks {
     constructor() {
