@@ -121,3 +121,8 @@ hr {
 .align-center {
   align-items: center;
 }
+.time {
+  position: absolute;
+  top: 25%;
+  right: 5%;
+}
