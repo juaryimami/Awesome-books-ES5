@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { DateTime } from './Luxon.js';
 
 const loadDate = () => {

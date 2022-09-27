@@ -1,7 +1,5 @@
-/* eslint-disable */
-import { StandardBooks } from './modules/booklist.js';
-import { loadDate } from './modules/Date.js';
-/* eslint-disable max-classes-per-file */
+import StandardBooks from './modules/booklist.js';
+import loadDate from './modules/Date.js';
 
 const bookList = document.querySelector('.bookList');
 const submit = document.querySelector('.submit');
