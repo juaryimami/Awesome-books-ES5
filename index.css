@@ -121,6 +121,7 @@ hr {
 .align-center {
   align-items: center;
 }
+/* stylelint-disable-next-line no-duplicate-selectors */
 .time {
   position: absolute;
   top: 25%;
